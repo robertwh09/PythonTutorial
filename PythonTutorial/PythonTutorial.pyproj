@@ -11,6 +11,8 @@
     <OutputPath>.</OutputPath>
     <Name>PythonTutorial</Name>
     <RootNamespace>PythonTutorial</RootNamespace>
+    <PublishUrl>
+    </PublishUrl>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
