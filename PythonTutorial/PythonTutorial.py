@@ -1,5 +1,13 @@
+import sys
+import platform
+
 print ('Output\n')
 print ('Hello World!\n')
+
+print(1, sys.version)
+print(2, platform.python_implementation())
+print(3, sys.executable)
+
 
 print ('Input\n')
 name = input ("What's your name?")
